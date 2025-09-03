@@ -121,5 +121,4 @@ export default tseslint.config([
     },
   },
 ])
-```
-# Anyware-software-frontend-
+
